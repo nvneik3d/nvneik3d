@@ -34,6 +34,6 @@ make    ▸ simulations · render tools · 3D visuals · brand identity
 
 ### Find me
 
-[![X](https://x.com/nvneik)
-[![Insta](https://www.instagram.com/nvneik/?hl=en)
+X https://x.com/nvneik
+INSTA https://www.instagram.com/nvneik/?hl=en
 
